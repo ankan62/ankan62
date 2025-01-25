@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning Artificial Intelligence.<br><br>⚡ Fun fact  I am mastering Scikit-learn, pandas, and exploratory data analysis all in one journey. You're becoming a data magician who can turn raw numbers into meaningful stories, all while keeping the process efficient and elegant! 🪄📊<br>
+🌱 I’m currently learning Artificial Intelligence.<br><br>⚡ Fun fact  I am mastering Scikit-learn, pandas, and exploratory data analysis all in one journey, becoming a data magician who can turn raw numbers into meaningful stories, all while keeping the process efficient and elegant! 🪄📊<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankan-mondal-5253002b3/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ankan_mondal62) 
 
